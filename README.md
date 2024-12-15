@@ -12,7 +12,7 @@
  
  🔭 I’m currently an undergraduate student at **Technocrats Institute of Technology, Bhopal**
  
- 🌱 I’m currently learning **Spring Boot, Hibernate, Microservices**
+ 🌱 I’m currently learning **Spring Boot, Hibernate, Microservices and AWS**
 
 💬 Ask me about **java, oops, dsa, cloud computing ... or anything [here](https://github.com/afzalshaikh04/afzalshaikh04/issues)**
 
