@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=afzalshaikh04.afzalshaikh04" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Afzal;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Afzal;Welcome+to+My+Profile!" />
 </h1>
 
-<h3 align="center">A passionate java backend developer</h3>
+<h3 align="center">A passionate Java Backend Developer</h3>
 
 <br/>
 
@@ -12,20 +12,45 @@
  
  🔭 I’m currently an undergraduate student at **Technocrats Institute of Technology, Bhopal**
  
- 🌱 I’m currently learning **Spring Boot, Hibernate, Microservices and AWS**
+ 🌱 I’m currently learning **Spring Boot, Hibernate, Microservices, and AWS**
 
-💬 Ask me about **java, oops, dsa, cloud computing ... or anything [here](https://github.com/afzalshaikh04/afzalshaikh04/issues)**
+⚡ Fun fact: I love exploring new technologies and writing clean, efficient code.
 
- </div>
+💬 Ask me about **Java, OOPs, DSA, cloud computing ... or anything [here](https://github.com/afzalshaikh04/afzalshaikh04/issues)**
+
+📫 How to reach me: **[afzalsheikh.2003@gmail.com](mailto:afzalsheikh.2003@gmail.com)**
+
+</div>
  
 <div align="center"> 
   <a href="mailto:afzalsheikh.2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/afzalshaikh04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://afzalshaikh04.github.io/personal-portfolio-page/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
+  <a href="https://github.com/afzalshaikh04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=afzalshaikh04&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalshaikh04&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🌟 Top Technologies</h2>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
